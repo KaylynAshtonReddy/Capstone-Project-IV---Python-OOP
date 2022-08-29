@@ -21,10 +21,11 @@ The aim of the project is to make use of OOP foundational concepts.
 
 Menu and data output.
 
-![inventory SGrab](https://user-images.githubusercontent.com/98525884/160284909-d2d8ef89-d0f7-475b-858e-1b171e9f64da.png)
+![inventory image](https://user-images.githubusercontent.com/102606725/187212660-379fc291-2ec9-486c-acb3-0ed3ad1c6674.png)
 
 ## Author
 
 Ashton Reddy : ashton.reddy7@gmail.com
 
 Any and all input for refactoring or changes are more than welcome.
+
