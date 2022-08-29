@@ -25,6 +25,6 @@ Menu and data output.
 
 ## Author
 
-Ashton Reddy [Email me](ashton.reddy7@gmail.com)
+Ashton Reddy : ashton.reddy7@gmail.com
 
 Any and all input for refactoring or changes are more than welcome.
